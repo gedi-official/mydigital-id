@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mydigital-id/static/css/main.96f191b1.css",
+    "main.js": "/mydigital-id/static/js/main.c07038eb.js",
+    "static/js/787.01310ffe.chunk.js": "/mydigital-id/static/js/787.01310ffe.chunk.js",
+    "static/media/Interset.png": "/mydigital-id/static/media/Interset.58bf96687bc6913c18df.png",
+    "index.html": "/mydigital-id/index.html",
+    "main.96f191b1.css.map": "/mydigital-id/static/css/main.96f191b1.css.map",
+    "main.c07038eb.js.map": "/mydigital-id/static/js/main.c07038eb.js.map",
+    "787.01310ffe.chunk.js.map": "/mydigital-id/static/js/787.01310ffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f191b1.css",
+    "static/js/main.c07038eb.js"
+  ]
+}
